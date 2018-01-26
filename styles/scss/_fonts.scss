@@ -1,0 +1,8 @@
+@import "_mixins/font-face";
+
+@include font-face("PlayFairReg", "../../fonts/PlayfairDisplay/PlayfairDisplayRegular/PlayfairDisplayRegular");
+@include font-face("PlayFairBold", "../../fonts/PlayfairDisplay/PlayfairDisplayBold/PlayfairDisplayBold");
+@include font-face("PlayFairItalic", "../../fonts/PlayfairDisplay/PlayfairDisplayItalic/PlayfairDisplayItalic");
+@include font-face("PoppinsMedium", "../../fonts/Poppins/PoppinsMedium/PoppinsMedium");
+@include font-face("PoppinsBold", "../../fonts/Poppins/PoppinsBold/PoppinsBold");
+
